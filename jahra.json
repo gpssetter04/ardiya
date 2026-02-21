@@ -1,0 +1,566 @@
+[
+  {
+    "name": "McDonald's Ferdous Park",
+    "coords": "29.276999,47.882030"
+  },
+  {
+    "name": "McDonald's Ferdous 24",
+    "coords": "29.287850,47.880293"
+  },
+  {
+    "name": "McDonald's Andulos",
+    "coords": "29.301746,47.902788"
+  },
+  {
+    "name": "Papa John's Sabha Al Nasser",
+    "coords": "29.271735,47.875226"
+  },
+  {
+    "name": "Khokh We Meshmesh Sabha Al Nasser",
+    "coords": "29.269989,47.876052"
+  },
+  {
+    "name": "Papa John's Andulos",
+    "coords": "29.301326,47.883679"
+  },
+  {
+    "name": "Fleek Andulos",
+    "coords": "29.301277,47.883664"
+  },
+  {
+    "name": "Starbucks Andulos",
+    "coords": "29.302004,47.901009"
+  },
+  {
+    "name": "Caribou Andulos",
+    "coords": "29.301024,47.901072"
+  },
+  {
+    "name": "Shrimpy Andulos",
+    "coords": "29.301038,47.900418"
+  },
+  {
+    "name": "Naif Regai",
+    "coords": "29.299610,47.907282"
+  },
+  {
+    "name": "Papa John's Regai",
+    "coords": "29.302647,47.917189"
+  },
+  {
+    "name": "SUBSTOP Andolus",
+    "coords": "29.298567,47.870360"
+  },
+  {
+    "name": "Starbucks Regai",
+    "coords": "29.306844,47.908043"
+  },
+  {
+    "name": "McDonald's Regai",
+    "coords": "29.304728,47.910269"
+  },
+  {
+    "name": "Shrimpy Regai",
+    "coords": "29.302731,47.913439"
+  },
+  {
+    "name": "Cuppa Coffee Studio Regai",
+    "coords": "29.305811,47.909198"
+  },
+  {
+    "name": "Starbucks Rehab",
+    "coords": "29.285745,47.940090"
+  },
+  {
+    "name": "Naif Rehab",
+    "coords": "29.285810,47.941637"
+  },
+  {
+    "name": "Mango Talaat Rehab",
+    "coords": "29.285497,47.940853"
+  },
+  {
+    "name": "McDonald's Rehab",
+    "coords": "29.287094,47.942152"
+  },
+  {
+    "name": "The Baking Room Rehab",
+    "coords": "29.287371,47.934836"
+  },
+  {
+    "name": "Spinners Italia Rehab",
+    "coords": "29.284993,47.946301"
+  },
+  {
+    "name": "YELO Pizza Isbliya",
+    "coords": "29.273630,47.936620"
+  },
+  {
+    "name": "Starbucks Isbliya",
+    "coords": "29.273879,47.936591"
+  },
+  {
+    "name": "McDonald's Isbliya",
+    "coords": "29.273370,47.935619"
+  },
+  {
+    "name": "Mango Talaat Omriya",
+    "coords": "29.294050,47.954497"
+  },
+  {
+    "name": "Subway Omriya",
+    "coords": "29.294471,47.954034"
+  },
+  {
+    "name": "Blackberry Juice Farwaniya",
+    "coords": "29.288989,47.953766"
+  },
+  {
+    "name": "Bukhari Alshanwari Farwaniya",
+    "coords": "29.289403,47.956146"
+  },
+  {
+    "name": "McDonald's Farwaniya",
+    "coords": "29.289459,47.961741"
+  },
+  {
+    "name": "Kunafat Habiba Amman Farwaniya",
+    "coords": "29.287827,47.954838"
+  },
+  {
+    "name": "Papa John Farwaniya",
+    "coords": "29.279135,47.952438"
+  },
+  {
+    "name": "Little Caesars Pizza Farwaniya",
+    "coords": "29.282284,47.961121"
+  },
+  {
+    "name": "Bateel Coffee Farwaniya",
+    "coords": "29.282199,47.961166"
+  },
+  {
+    "name": "Naif Farwaniya",
+    "coords": "29.276496,47.959463"
+  },
+  {
+    "name": "Chicken King Farwaniya",
+    "coords": "29.276972,47.962794"
+  },
+  {
+    "name": "Mr. Baker Farwaniya",
+    "coords": "29.272569,47.967336"
+  },
+  {
+    "name": "Starbucks Farwaniya",
+    "coords": "29.278630,47.954537"
+  },
+  {
+    "name": "McDonald's Khaitan",
+    "coords": "29.292607,47.971461"
+  },
+  {
+    "name": "Starbucks Khaitan",
+    "coords": "29.295303,47.966334"
+  },
+  {
+    "name": "Seattles's Best Coffee Khaitan",
+    "coords": "29.295453,47.966329"
+  },
+  {
+    "name": "KFMB Khaitan",
+    "coords": "29.294269,47.970400"
+  },
+  {
+    "name": "King Castle Juice Khaitan",
+    "coords": "29.288743,47.974647"
+  },
+  {
+    "name": "Deboned Khaitan",
+    "coords": "29.290746,47.967102"
+  },
+  {
+    "name": "OLE Coffee Ardiya Stadium",
+    "coords": "29.273438,47.923388"
+  },
+  {
+    "name": "Shako Mako Ardiya Stadium",
+    "coords": "29.273681,47.923369"
+  },
+  {
+    "name": "Wheat Ardiya Stadium",
+    "coords": "29.273188,47.923339"
+  },
+  {
+    "name": "Koobs Ardiya Stadium",
+    "coords": "29.273060,47.923313"
+  },
+  {
+    "name": "Caf Cafe Ardiya Stadium",
+    "coords": "29.272726,47.923444"
+  },
+  {
+    "name": "Hazat Karak Ardiya Stadium",
+    "coords": "29.272587,47.923221"
+  },
+  {
+    "name": "Ask Coffee Ardiya Stadium",
+    "coords": "29.272310,47.923339"
+  },
+  {
+    "name": "Starbucks Ardiya Stadium",
+    "coords": "29.271861,47.923387"
+  },
+  {
+    "name": "Good Day Ardiya Stadium",
+    "coords": "29.270827,47.923449"
+  },
+  {
+    "name": "Shake Shack Ardiya Stadium",
+    "coords": "29.270993,47.923312"
+  },
+  {
+    "name": "McDonald's Ardiya Stadium",
+    "coords": "29.268274,47.923092"
+  },
+  {
+    "name": "Bon Vein Cafe Ardiya Stadium",
+    "coords": "29.268275,47.923330"
+  },
+  {
+    "name": "Pov Cafe Ardiya Stadium",
+    "coords": "29.268023,47.923376"
+  },
+  {
+    "name": "Daera Ardiya",
+    "coords": "29.295619,47.910264"
+  },
+  {
+    "name": "Fatayer Khalil Basha Ardiya",
+    "coords": "29.295562,47.910092"
+  },
+  {
+    "name": "Woop 99 Ardiya",
+    "coords": "29.294918,47.910422"
+  },
+  {
+    "name": "Monza Ardiya",
+    "coords": "29.295774,47.910077"
+  },
+  {
+    "name": "Savor Ardiya",
+    "coords": "29.295668,47.909631"
+  },
+  {
+    "name": "B Fit Ardiya",
+    "coords": "29.295392,47.909629"
+  },
+  {
+    "name": "Karak Corner Ardiya",
+    "coords": "29.295235,47.909496"
+  },
+  {
+    "name": "Blob Ardiya",
+    "coords": "29.295047,47.909542"
+  },
+  {
+    "name": "Ask Coffee Ardiya",
+    "coords": "29.294966,47.909676"
+  },
+  {
+    "name": "Nour Alyaman Ardiya",
+    "coords": "29.294835,47.907840"
+  },
+  {
+    "name": "McDonald's Ardiya",
+    "coords": "29.294741,47.907746"
+  },
+  {
+    "name": "Konafa Habiba Ardiya",
+    "coords": "29.294565,47.907610"
+  },
+  {
+    "name": "Fatayer In Box Ardiya",
+    "coords": "29.293657,47.908527"
+  },
+  {
+    "name": "Mood Ardiya",
+    "coords": "29.294111,47.909572"
+  },
+  {
+    "name": "Finger Sushi Ardiya",
+    "coords": "29.294210,47.909660"
+  },
+  {
+    "name": "Tea Party Sweets Ardiya",
+    "coords": "29.294211,47.909842"
+  },
+  {
+    "name": "Abu Raad Kebab Ardiya",
+    "coords": "29.294203,47.910022"
+  },
+  {
+    "name": "Mamma Bunz Cafe Ardiya",
+    "coords": "29.293502,47.911335"
+  },
+  {
+    "name": "Karak Cafeteria Ardiya",
+    "coords": "29.295237,47.913174"
+  },
+  {
+    "name": "Crops Ardiya",
+    "coords": "29.295256,47.913059"
+  },
+  {
+    "name": "Nagaf Ardiya",
+    "coords": "29.295975,47.913190"
+  },
+  {
+    "name": "Dar Talal Ardiya",
+    "coords": "29.296819,47.913334"
+  },
+  {
+    "name": "Mutbbaq Chapati Ardiya",
+    "coords": "29.296753,47.913657"
+  },
+  {
+    "name": "Ever Bakery Ardiya",
+    "coords": "29.296129,47.914311"
+  },
+  {
+    "name": "Karak Station Ardiya",
+    "coords": "29.295972,47.914271"
+  },
+  {
+    "name": "Lucky Bun Ardiya",
+    "coords": "29.295889,47.914188"
+  },
+  {
+    "name": "Pasta Di Risotto italia Ardiya",
+    "coords": "29.296576,47.914526"
+  },
+  {
+    "name": "Starbucks Ardiya",
+    "coords": "29.295011,47.915418"
+  },
+  {
+    "name": "Trolley Ardiya",
+    "coords": "29.295017,47.915349"
+  },
+  {
+    "name": "Wimpy Ardiya",
+    "coords": "29.295641,47.915476"
+  },
+  {
+    "name": "Aseer Time Ardiya",
+    "coords": "29.295633,47.915479"
+  },
+  {
+    "name": "Logmat Alafia Ardiya",
+    "coords": "29.295524,47.914260"
+  },
+  {
+    "name": "Caribou Ardiya",
+    "coords": "29.293790,47.920167"
+  },
+  {
+    "name": "Sabel Ardiya",
+    "coords": "29.292864,47.923058"
+  },
+  {
+    "name": "Refresh Juice Ardiya",
+    "coords": "29.293433,47.923610"
+  },
+  {
+    "name": "OLE Coffee Ardiya",
+    "coords": "29.294854,47.925724"
+  },
+  {
+    "name": "By Royal Movenpick Ardiya",
+    "coords": "29.292899,47.922546"
+  },
+  {
+    "name": "SUBSTOP Ardiya",
+    "coords": "29.297691,47.911908"
+  },
+  {
+    "name": "Aseer Time Ardiya",
+    "coords": "29.297788,47.912278"
+  },
+  {
+    "name": "Lava Cake Ardiya",
+    "coords": "29.297441,47.913530"
+  },
+  {
+    "name": "Barid Yasrasih Ardiya",
+    "coords": "29.290901,47.895748"
+  },
+  {
+    "name": "Fatayer Best Sweet Ardiya",
+    "coords": "29.295081,47.903023"
+  },
+  {
+    "name": "Khokh We Meshmesh Nahda",
+    "coords": "29.304946,47.858475"
+  },
+  {
+    "name": "Toffee Al-Meshaal Nahda",
+    "coords": "29.304850,47.857720"
+  },
+  {
+    "name": "Azm Store Nahda",
+    "coords": "29.301598,47.861520"
+  },
+  {
+    "name": "Starbucks Siddeeq",
+    "coords": "29.290474,47.991062"
+  },
+  {
+    "name": "Thinnies Siddeeq",
+    "coords": "29.293315,47.991259"
+  },
+  {
+    "name": "Fleek Siddeeq",
+    "coords": "29.293942,47.990699"
+  },
+  {
+    "name": "Caribou Siddeeq",
+    "coords": "29.293285,47.991226"
+  },
+  {
+    "name": "McDonald's Siddeeq",
+    "coords": "29.294066,48.002629"
+  },
+  {
+    "name": "Subway Siddeeq",
+    "coords": "29.294459,48.002375"
+  },
+  {
+    "name": "SUBSTOP Salam",
+    "coords": "29.296154,48.009839"
+  },
+  {
+    "name": "Baskin Salam",
+    "coords": "29.295858,48.010371"
+  },
+  {
+    "name": "Blu Bun Salam",
+    "coords": "29.291286,48.022773"
+  },
+  {
+    "name": "McDonald's Zahra",
+    "coords": "29.278055,48.002379"
+  },
+  {
+    "name": "Starbucks Zahra",
+    "coords": "29.278956,48.003491"
+  },
+  {
+    "name": "Mango Talaat Zahra",
+    "coords": "29.279484,48.003105"
+  },
+  {
+    "name": "Cecilia Zahra",
+    "coords": "29.279491,48.003552"
+  },
+  {
+    "name": "Fatayer Zahra",
+    "coords": "29.279479,48.003688"
+  },
+  {
+    "name": "Pasta Lasagna Zahra",
+    "coords": "29.270943,48.005447"
+  },
+  {
+    "name": "Subway Zahra",
+    "coords": "29.294459,48.002375"
+  },
+  {
+    "name": "Kanafany Zahra",
+    "coords": "29.294140,48.002562"
+  },
+  {
+    "name": "Subway Shuhada",
+    "coords": "29.269771,48.033336"
+  },
+  {
+    "name": "Starbucks Shuhada",
+    "coords": "29.270069,48.033821"
+  },
+  {
+    "name": "Dragon Fruit Shuhada",
+    "coords": "29.270315,48.034073"
+  },
+  {
+    "name": "Koala Shuhada",
+    "coords": "29.274026,48.032593"
+  },
+  {
+    "name": "Starbucks Al-Dajeej",
+    "coords": "29.262300,47.957064"
+  },
+  {
+    "name": "McDonald's Al-Dajeej",
+    "coords": "29.262293,47.959613"
+  },
+  {
+    "name": "Wimpy Al-Dajeej",
+    "coords": "29.263000,47.959635"
+  },
+  {
+    "name": "Caribou Al-Dajeej",
+    "coords": "29.263343,47.959728"
+  },
+  {
+    "name": "Abu Saleem Al-Dajeej",
+    "coords": "29.263379,47.959786"
+  },
+  {
+    "name": "Kanafany Al-Dajeej",
+    "coords": "29.263443,47.959789"
+  },
+  {
+    "name": "Tim Hortons Al-Dajeej",
+    "coords": "29.263124,47.959707"
+  },
+  {
+    "name": "McDonald's Sulaibiya",
+    "coords": "29.274974,47.846456"
+  },
+  {
+    "name": "Dana Fateerati Sulaibiya",
+    "coords": "29.272460,47.842688"
+  },
+  {
+    "name": "Klarig Sulaibiya",
+    "coords": "29.273006,47.842398"
+  },
+  {
+    "name": "Fatayer AI Sham Al Lathetha Sulaibiya",
+    "coords": "29.272508,47.841827"
+  },
+  {
+    "name": "Afrah Alkhalij Alassli Sulaibiya",
+    "coords": "29.286172,47.832522"
+  },
+  {
+    "name": "Naif Sulaibiya",
+    "coords": "29.288250,47.824173"
+  },
+  {
+    "name": "Alaryaf Sweets Sulaibiya",
+    "coords": "29.288418,47.823605"
+  },
+  {
+    "name": "Wing Street Sulaibiya",
+    "coords": "29.286958,47.822854"
+  },
+  {
+    "name": "Starbucks Qairawan",
+    "coords": "29.304874,47.793359"
+  },
+  {
+    "name": "Sweet AI Thabiah Qairawan",
+    "coords": "29.298970,47.810258"
+  }
+]
